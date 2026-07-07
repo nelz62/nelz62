@@ -7,16 +7,20 @@ I'm a Software QA Tester passionate about software quality and automation.
 
 ### 🔭 Currently Learning
 - Manual Testing
+- Automation Testing
 - API Testing
 - SQL
 - Cypress
 - Playwright
 
 ### 🛠 Skills
+- Automation Testing
 - Manual Testing
 - API Testing
 - SQL
 - JavaScript
+- playwright
+- Cypress 
 
 ## Tech Stack
 
