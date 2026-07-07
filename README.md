@@ -17,6 +17,16 @@ I'm a Software QA Tester passionate about software quality and automation.
 - API Testing
 - SQL
 - JavaScript
+
+## Tech Stack
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress)
 - Git & GitHub
 - Postman
 
@@ -24,6 +34,29 @@ I'm a Software QA Tester passionate about software quality and automation.
 - Manual Testing Portfolio
 - Playwright Automation
 - REST API Project
+
+- ## Featured Projects
+
+### 🧪 Manual Testing Portfolio
+
+- Test Cases
+- Bug Reports
+- Test Plan
+- Test Summary
+
+Repository:
+https://github.com/nelz62/manual-testing-portfolio
+
+
+### 🌐 REST API Project
+
+- GET
+- POST
+- PUT
+- DELETE
+
+Repository:
+https://github.com/yourusername/rest-api-project
 
 ### 📫 Contact
 Email: Ronzlagco12345@gmail.com
