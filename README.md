@@ -55,8 +55,5 @@ https://github.com/nelz62/manual-testing-portfolio
 - PUT
 - DELETE
 
-Repository:
-https://github.com/yourusername/rest-api-project
-
 ### 📫 Contact
 Email: Ronzlagco12345@gmail.com
