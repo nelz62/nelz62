@@ -63,3 +63,5 @@ https://github.com/nelz62/manual-testing-portfolio
 Email: Ronzlagco12345@gmail.com
 
 https://www.upwork.com/freelancers/~010716504915ecd30a
+
+https://platform.utest.com/account/my-profile/
