@@ -49,8 +49,7 @@ I'm a Software QA Tester passionate about software quality and automation.
 - Test Summary
 
 Repository:
-https://github.com/nelz62/manual-testing-portfolio
-
+https://github.com/nelz62/manual-testing-portfolio/tree/main
 
 ### 🌐 REST API Project
 
