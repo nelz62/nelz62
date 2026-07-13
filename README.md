@@ -47,6 +47,7 @@ I'm a Software QA Tester passionate about software quality and automation.
 - Bug Reports
 - Test Plan
 - Test Summary
+- Test Execution with attach excel file
 
 Repository:
 https://github.com/nelz62/manual-testing-portfolio/tree/main
